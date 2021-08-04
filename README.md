@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riifia
-- 👀 I’m interested in Rust, Python
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
