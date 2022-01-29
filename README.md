@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Riifia
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python, C, AI.
+- 🌱 I’m currently learning rust.
 - 📫 How to reach me ...
 
 <!---
