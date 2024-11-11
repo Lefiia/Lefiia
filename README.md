@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Riifia
+- 👋 Hi, If you want to see the repo then please shoot me a message. Otherwise, please kindly go away
 
 <!---
 Riifia/Riifia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
